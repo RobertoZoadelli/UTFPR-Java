@@ -1,4 +1,4 @@
-# Olá, eu sou o Roberto Zoadelli 👋
+# Olá, meu nome é Roberto Zoadelli 👋
 
 Sou **Desenvolvedor ADVPL - Protheus** e atualmente estou me especializando em **Java** através da **Pós-Graduação na UTFPR** (Universidade Tecnológica Federal do Paraná). Busco criar aplicações robustas, escaláveis e alinhadas com as melhores práticas de mercado.
 
